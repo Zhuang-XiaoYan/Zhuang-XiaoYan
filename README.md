@@ -12,9 +12,9 @@
 
 # 个人证书
 
-![PMP.png](https://github.com/Zhuang-XiaoYan/Zhuang-XiaoYan/blob/main/certificate/PMP.png)
+[![p96lICq.png](https://s1.ax1x.com/2023/05/13/p96lICq.png)](https://imgse.com/i/p96lICq)
 
-![Aliyun.png](https://github.com/Zhuang-XiaoYan/Zhuang-XiaoYan/blob/main/certificate/Aliyun.png)
+[![p96l7vT.png](https://s1.ax1x.com/2023/05/13/p96l7vT.png)](https://imgse.com/i/p96l7vT)
 
 # 博文资源
 
