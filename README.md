@@ -13,6 +13,8 @@
 
 ![Aliyun.png](https://github.com/Zhuang-XiaoYan/Zhuang-XiaoYan/blob/main/certificate/Aliyun.png)
 
+![CSDN.png](https://github.com/Zhuang-XiaoYan/Zhuang-XiaoYan/blob/main/certificate/CSDN.png)
+
 # 博文资源
 
 - [庄小焱网站](https://2462612540.github.io/SeniorArchitect/)
